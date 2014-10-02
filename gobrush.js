@@ -5,7 +5,7 @@ var lmid = 82;
 var spid = 1861;
 var kmid = 3;
 
-var optCookie = "ASP.NET_SessionId=ypebdmh4rxzhivhq5hnsiv1d; CNZZDATA3564992=cnzz_eid%3D1190719382-1410398391-%26ntime%3D1412215370; StdId=220632; IsFullStudyTime=-1; UserId=131793; jdmemberShip=1039; lastLoginTime=2014/10/1 0:14:11; LoginRandom=7091; lastStudyVido=%e3%80%90%e5%9b%bd%e5%a4%96%e3%80%91%e4%ba%a4%e9%80%9a%e5%ae%89%e5%85%a8%e5%ae%a3%e4%bc%a0%e7%89%87%e5%90%88%e9%9b%86; myWebLocation=1";
+var optCookie = ""; // 此处填写站点cookie值
 var optHost = 'www.monicar.cn';
 var optOrigin = 'http://www.monicar.cn';
 var optXReq = 'XMLHttpRequest';
