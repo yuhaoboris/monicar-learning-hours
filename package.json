@@ -1,0 +1,10 @@
+{
+	"name": "monicar-learning-hours",
+	"description": "机动车驾驶员网络学习平台自动刷在线学时",
+	"version": "0.1.0",
+	"author": "boris <yuhaobo1990@gmail.com>",
+	"main": "gobrush.js",
+	"dependencies": {
+		"request": "2.x"
+	}
+}
