@@ -5,6 +5,10 @@ var lmid = 82;
 var spid = 1861;
 var kmid = 3;
 
+// 设置视频时间信息，此处根据实际情况填写
+var videoTime = 248;
+var recordTime = 265;
+
 var optCookie = ""; // 此处填写站点cookie值
 var optHost = 'www.monicar.cn';
 var optOrigin = 'http://www.monicar.cn';
@@ -51,8 +55,8 @@ var editOptions = {
 		'lmid': lmid,
 		'spid': spid,
 		'myFlag': '1',
-		'realVideoTime': '248',
-		'myRecordTime': '265'
+		'realVideoTime': videoTime,
+		'myRecordTime': recordTime
 	},
 	method: optMethod
 }
